@@ -3,7 +3,7 @@
 
 [Milestone 1](milestone1.md)
 
-[Milestone 2](milestone2.md)
+[Milestone 2](ms2.md)
 
 ## Milestone 1: Problem Proposal                                                        
 
