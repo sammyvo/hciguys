@@ -3,7 +3,7 @@
 
 [Milestone 1](milestone1.md)
 
-[Milestone 2](milestone2.md)
+[Milestone 2](milestone2.md) 
 
 ## Group Members
 * Abbie Thomas (agt96353@uga.edu)
