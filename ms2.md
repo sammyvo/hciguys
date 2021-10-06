@@ -110,7 +110,7 @@ __2. Analysis of Existing Solutions__
 
 After reviewing existing solutions, Slack has the most comprehensive list of guidelines and principles. Slack lists three main aspects to digital product design: User-centered problem solving, User interface and experience design, and Collaboration and communication. In the next steps for this project, our group will adhere to the following guidelines and principles.
 
-&emsp;i. User-Centered Problem Solving
+&emsp;I. User-Centered Problem Solving
 * Empathy: Understanding how the user will be impacted before, during, and after using our product
 * Goals, Anti-goals, and Audience: Consider different types of users and their potential objectives
 * Problem Framing: Focus on why a user would have a problem in order to find the root cause of the issue
@@ -118,14 +118,14 @@ After reviewing existing solutions, Slack has the most comprehensive list of gui
 * User testing, feedback, and validation: Create interactive prototype and collect user feedback
 <br>
 
-&emsp;ii. User Interface and Experience Design
+&emsp;II. User Interface and Experience Design
 * User experience (UX) design and user flows using wireframes
 * Branding, visual, and user interface design following Gestalt Principles
 * Motion and interaction design considering physical details and micro-interactions
 * Accessibility: consider users with varying degrees and types of impairments
 <br>
 
-&emsp;iii. Collaboration and Communication
+&emsp;III. Collaboration and Communication
 * Documentation: record design decisions at every level of product development
 * Feedback and alignment: consider feedback while maintaining what is important for the product
 
