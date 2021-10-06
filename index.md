@@ -1,9 +1,7 @@
 ## Directory
-[Home](index.md)
-
-[Milestone 1](milestone1.md)
-
-[Milestone 2](ms2.md) 
+[Home](index.md)<br>
+[Milestone 1](milestone1.md)<br>
+[Milestone 2](ms2.md)<br>
 
 ## Group Members
 * Abbie Thomas (agt96353@uga.edu)
