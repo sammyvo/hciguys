@@ -5,9 +5,9 @@
 
 ## Milestone 2: Definition & Related Work          
 
-__1. Task/Problem Definition__
+### __1. Task/Problem Definition__
 
-*Introduction of Problem*
+> *Introduction of Problem*
 
 For facilitating discussions across a variety of courses, instructors may opt to use a discussion-board system to allow all students in the course to voice their thoughts. While UGA leverages the D2L (eLC) system for course management, the built-in discussion board is often left unused in favor of a third-party solution known as Piazza.
 
@@ -21,7 +21,7 @@ Using a third party discussion board can cause problems for both instructors and
 
 Discussion boards facilitate an interactive in-class experience. Using a digital system allows each students to voice their thoughts, rather than a select number physically responding in class, potentially leaving out some students from sharing their thoughts. It allows for collaboration among peers, with the ability for the entire class to see posts from multiple perspectives. Using a system such as this allows students to retroactively look back at their responses to further deepen their understanding on course materials. Particularly for larger section classes, using a discussion board allows for a large pool of students to be able to assist other students, leaving instructors the ability to endorse an answer, and potentially lessen their workload. 
 
-*Typical Use Case*
+> *Typical Use Case*
 
 I. A Typical Interaction on ELC (Making a New Post):
 
@@ -68,7 +68,7 @@ Piazza
 * Wider-Focus: A uniform board style can facilitate more open-discussion questions among peers. 
 * To achieve the task completion, the number of steps is minimal. Responses are “Live” fed. 
 
-*Claims*
+> *Claims*
 
 Claim: Relevance of Face to Face and Class Discussion Boards
 * Discussion boards can be leveraged in a face to face setting for students to contribute to a class discussion in a method that allows retroactive viewing, ability for all students to participate, facilitates collaboration among peers, and provides a vessel for instructors to showcase to the entire class. 
@@ -89,12 +89,15 @@ Claim: Reluctance of Users Sharing Even Basic Personal Information
 * The less places information is, the less chance there is of it popping up in website breach leaks. 
 
 
-*Potential Users*
+> *Potential Users*
 
 The user population that will be affected by our problem of study includes students and professors. These users will perform tasks such as creating and replying to posts, upvoting posts as helpful, organizng posts by topic, and replying to discussion posts. Leveraging a Piazza-like interface within ELC will benefit users by allowing them to use one platform instead of having to rely on a third party system. Being integrated into the main course management system affords users to easily click into the discussion board, rather than need to log into a separate service. The more users that leverage these features, the more discussion that can be fostered as a result. This can lead to more impactful face to face interactions, all leading to impactful learning for students to benefit from.
 
 
-__2. Analysis of Existing Solutions__
+### __2. Analysis of Existing Solutions__
+> *Existing Solutions*
+
+We analyzed three discussion boards that have attempted something similar to eLC. Slack, Piazza, and Google Docs all incorporate features that we believe are essential to facilitate meaningful discussion. Below are the pros and cons of each platform, including eLC's discussion board.
 
 *Slack*
 
@@ -185,7 +188,7 @@ __2. Analysis of Existing Solutions__
   </tr>
 </table>
 
-*Potential Guidelines and Principles*
+> *Potential Guidelines and Principles*
 
 After reviewing existing solutions, Slack has the most comprehensive list of guidelines and principles. Slack lists three main aspects to digital product design: User-centered problem solving, User interface and experience design, and Collaboration and communication. In the next steps for this project, our group will adhere to the following guidelines and principles.
 
@@ -209,7 +212,8 @@ After reviewing existing solutions, Slack has the most comprehensive list of gui
 * Feedback and alignment: consider feedback while maintaining what is important for the product
 
 
-__3. Proposed Solution__
+### __3. Proposed Solution__
+> *Our Solution*
 
 As a general plan, develop an online discussion platform to support in-class learning that can be integrated into the Universites existing learning platform. This platform will blend helpful affordances from similar products such as Piazza, Slack, and Google Docs. In order to create one cohesive discussion platform, we will implement the following affordances:
 
@@ -224,7 +228,7 @@ As a general plan, develop an online discussion platform to support in-class lea
 * Users will be able to mention other people by using the “@” to tag them
 * Private chat function for live group discussion
 
-*Measuring Success*
+> *Measuring Success*
 
 Our group will use the following key performance indicators (KPIs):
 * Number of Users 
@@ -239,15 +243,15 @@ __4. Summary Video__
 
 __5. Sources__
 
-Anthony. (2014, May 7). 8 Reasons Users Don't Fill Out Sign Up Forms. UX Movement. Retrieved October 5, 2021, from https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form/.
+Anthony. (2014, May 7). 8 Reasons Users Don't Fill Out Sign Up Forms. UX Movement. Retrieved October 5, 2021, from https://uxmovement.com/forms/8-reasons-users-arent-filling-out-your-sign-up-form/
 
-Discussions: Engaging students: ELC Help. Discussions | Engaging Students | eLC Help. (n.d.). Retrieved October 5, 2021, from https://help.elc.uga.edu/engaging_students/discussions/.
+Discussions: Engaging students: ELC Help. Discussions Engaging Students eLC Help. (n.d.). Retrieved October 5, 2021, from https://help.elc.uga.edu/engaging_students/discussions/
 
-Kemp, N., & Grieve, R. (2014, November 12). Face-to-face or face-to-screen? undergraduates' opinions and test performance in classroom vs. online learning. Frontiers in psychology. Retrieved October 5, 2021, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228829/.
+Kemp, N., & Grieve, R. (2014, November 12). Face-to-face or face-to-screen? undergraduates' opinions and test performance in classroom vs. online learning. Frontiers in psychology. Retrieved October 5, 2021, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4228829/
 
-Tufts. (n.d.). Trunk User Guide: What is the Piazza tool? Retrieved October 5, 2021, from https://trunkuserguide.screenstepslive.com/s/5891/m/18197/l/194503-what-is-the-piazza-tool.
+Tufts. (n.d.). Trunk User Guide: What is the Piazza tool? Retrieved October 5, 2021, from https://trunkuserguide.screenstepslive.com/s/5891/m/18197/l/194503-what-is-the-piazza-tool
 
-Turman, K. (2021, February 17). Pillars of Digital Product Design. Slack Design. Retrieved October 3, 2021, from https://slack.design/articles/pillars-of-digital-product-design/.
+Turman, K. (2021, February 17). Pillars of Digital Product Design. Slack Design. Retrieved October 3, 2021, from https://slack.design/articles/pillars-of-digital-product-design/
 
 
 [Return to Top](#directory)
