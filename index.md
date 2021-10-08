@@ -11,5 +11,4 @@
 
 ## Synopsis
 
---- We need a short summary ---
-
+Discussion boards facilitate deeper understanding and student interaction in college courses. Currently, the discussion board used by the University of Georgia's learning platform, eLC, is underutilized. Many professors use third party websites like Piazza or Slack in place of this tool. This project aims to redesign eLC's Discussion Board for increased usability and better affordances.
