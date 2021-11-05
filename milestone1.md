@@ -2,6 +2,7 @@
 [Home](index.md)<br>
 [Milestone 1](milestone1.md)<br>
 [Milestone 2](ms2.md)<br>
+[Milestone 3](3-mile.md)<br>
 
 ## Milestone 1: Problem Proposal                                                        
 
