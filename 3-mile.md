@@ -213,6 +213,16 @@ v. Click Back anytime to cancel
 
 **4. View Previous Discussions**
 
+i. Click General menu
+
+ii. Use menu to navigate between Projects, Chapter 1, or General pages
+
+iii. Click Search bar to see sample search of "1". 
+
+iv. Click search bar again to exit search
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D489%253A904%26scaling%3Dscale-down-width%26page-id%3D434%253A693%26starting-point-node-id%3D489%253A658" allowfullscreen></iframe>
+
 **5. Pin Key Threads**
 
 **6. Facilitate Discussion**
