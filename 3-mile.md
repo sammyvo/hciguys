@@ -199,6 +199,18 @@ Answers moved to top based on number of likes:
 
 **3. Ask Questions**
 
+i. Click "Create Post"
+
+ii. Click Title Box to add title
+
+iii. Click Body Box to add body
+
+iv. Click Post to post question
+
+v. Click Back anytime to cancel
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-team-library%3Fnode-id%3D467%253A547%26scaling%3Dscale-down-width%26page-id%3D434%253A692%26starting-point-node-id%3D467%253A547" allowfullscreen></iframe>
+
 **4. View Previous Discussions**
 
 **5. Pin Key Threads**
