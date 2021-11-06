@@ -196,17 +196,28 @@ Answers moved to top based on number of likes:
 **1. Group Work**
 
 i. CLick "Respond"
+
 ii. Click + to add members (twice for this example)
+
 iii. Click "Respond" to make group or "Cancel" to cancel
+
 iv. Click the message icon to view messages
+
 v. Click the send button to see a sample message
+
 vi. Click "Back" to return to forum page
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D503%253A3009%26scaling%3Dscale-down-width%26page-id%3D434%253A2%26starting-point-node-id%3D503%253A3009" allowfullscreen></iframe>
 
 **2. Class Discussion**
 
+i. Navigate between posts on the general page
 
+ii. Navigate to other pages (Projects, Chapter 1)
+
+iii. Search Bar
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D503%253A5507%26scaling%3Dscale-down-width%26page-id%3D434%253A691%26starting-point-node-id%3D503%253A5507%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 **3. Ask Questions**
 
@@ -237,25 +248,38 @@ iv. Click search bar again to exit search
 **5. Pin Key Threads**
 
 i. Click between pinned note "Welcome to CSCI 4800 Discussion Board" and unpinned note "Questions about Homework 1"
+
 ii. Pin note "Questions about Homework 1" by clicking pin
+
 iii. Unpin note "Questions about Homework 1" by clicking pin again
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D503%253A1833%26scaling%3Dscale-down-width%26page-id%3D434%253A694%26starting-point-node-id%3D503%253A1833%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 **6. Facilitate Discussion**
 
+See Mockup from 2.
+
 **7. Answer Questions**
 
 i. Click "Respond"
+
 ii. Click box "Respond Individually"
+
 iii. Click "Respond" to write response or "Cancel" to Cancel
+
 iv. Click "Back" to go back without posting or "Post" to post response
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D503%253A3947%26scaling%3Dscale-down-width%26page-id%3D434%253A696%26starting-point-node-id%3D503%253A3583" allowfullscreen></iframe>
 
 **8. Endorse Responses**
 
+i. Click "Endorse" on Jackson Pollock's answer to endorse it
 
+ii. Click "Endorsed!" to unendorse the answer
+
+iii. Hover over "Hover for Student View" to see student view at any time
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D503%253A4125%26scaling%3Dscale-down-width%26page-id%3D434%253A697%26starting-point-node-id%3D503%253A4125%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 __Summary Video__
 
