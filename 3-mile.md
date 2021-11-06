@@ -225,6 +225,12 @@ iv. Click search bar again to exit search
 
 **5. Pin Key Threads**
 
+i. Click between pinned note "Welcome to CSCI 4800 Discussion Board" and unpinned note "Questions about Homework 1"
+ii. Pin note "Questions about Homework 1" by clicking pin
+iii. Unpin note "Questions about Homework 1" by clicking pin again
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FZGIpqWWGOuxBtl7QvjhskM%2FHCI-Guys-Milestone-2%3Fnode-id%3D503%253A1833%26scaling%3Dscale-down-width%26page-id%3D434%253A694%26starting-point-node-id%3D503%253A1833%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+
 **6. Facilitate Discussion**
 
 **7. Answer Questions**
