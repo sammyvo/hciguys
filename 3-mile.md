@@ -109,86 +109,233 @@ As an instructor, I would like to endorse student responses for all students to 
 
 > *Low Fidelity Wireframes*
 
-#### **1. Group Work**
-
-Live text editor:
-
-<img src="photos/livedoc.jpg">
-
-Group chat function:
-
-<img src="photos/discord.jpg">
-
-**2. Class Discussion**
-
-Threaded forum layout:
-
-<img src="photos/piazza.jpg">
-
-Dump Bucket Layout:
-
-<img src="photos/dump.jpg">
-
-**3. Ask Questions**
-
-Live chat for questions:
-
-<img src="photos/livequestions.jpg">
-
-Creating a post in the forum for questions:
-
-<img src="photos/createpost.jpg">
-
-**4. View Previous Discussions**
-
-Search bar location:
-
-<img src="photos/sbs.jpg">
-
-Organize discussion board by topic:
-
-<img src="photos/ddm.jpg">
-
-**5. Pin Key Threads**
-
-Pins kept in place or moved to top:
-
-<img src="photos/pinnedopt.jpg">
-
-Pinned message:
-
-<img src="photos/pinned.jpg">
-
-Unpinned message:
-
-<img src="photos/unpinned.jpg">
-
-Unpinned message (student view):
-
-<img src="photos/unpinned-student-view.jpg">
-
-**6. Facilitate Discussion**
-
-
-**7. Answer Questions**
-
-Pinned Frequently Asked Questions (FAQ) Section:
-
-<img src="photos/FAQ.jpg">
-
-Answer questions through threads:
-
-<img src="photos/answer-threads.jpg">
-
-**8. Endorse Responses**
-
-Answers Endorsed by Professor:
-
-<img src="photos/profendorsed.jpg">
-
-Answers moved to top based on number of likes:
-
-<img src="photos/likes.jpg">
+<p>1. Group Work</p>
+				<div id="c1" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c1" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c1" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/discord.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Group Chat function for groups to use.</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/livedoc.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Live document for group work.</h5>
+					  </div>
+					</div>
+				  </div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c1" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c1" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+				
+<br><p>2.Class Discussion</p>
+				<div id="c2" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c2" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c2" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/dump.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Dump Bucket Layout</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/piazza.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Threaded Forum Layout</h5>
+					  </div>
+					</div>
+				  </div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c2" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c2" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+				
+<br><p>3. Ask Questions</p>
+				<div id="c3" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c3" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c3" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/createpost.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Creating a post in the forum for questions</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/livequestions.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Live chat for asking questions</h5>
+					  </div>
+					</div>
+				  </div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c3" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c3" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+				
+<br><p>4. View Previous Discussions</p>
+				<div id="c4" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c4" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c4" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/sbs.jpg" class="d-block mh-70" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Search Bar Location</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/sbi.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Search Bar Implemented</h5>
+					  </div>
+					</div>
+				  </div>
+				  <div class="carousel-item">
+					  <img src="photos/ddm.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Organize discussion board by topic in drop down menu</h5>
+					  </div>
+					</div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c4" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c4" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+				
+<br><p>5. Pin Key Threads</p>
+				<div id="c5" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c5" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c5" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/pinnedopt.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Pins kept in place or moved to top</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/pinned.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Pinned Message</h5>
+					  </div>
+					</div>
+				  </div>
+				  <div class="carousel-item">
+					  <img src="photos/unpinned.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Unpinned Message</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/unpinned-student-view.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Unpinned Message Student View</h5>
+					  </div>
+					</div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c5" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c5" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+				
+<br><p>7. Answer Questions</p>
+				<div id="c7" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c7" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c7" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/FAQ.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Pin frequently asked questions (FAQs) to top</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/answer-threads.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Answer Questions through threads</h5>
+					  </div>
+					</div>
+				  </div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c7" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c7" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
+				
+<br><p>8. Endorse Responses</p>
+				<div id="c8" class="carousel carousel-dark slide" data-interval="false">
+				  <div class="carousel-indicators">
+					<button type="button" data-bs-target="#c8" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+					<button type="button" data-bs-target="#c8" data-bs-slide-to="1" aria-label="Slide 2"></button>
+				  </div>
+				  <div class="carousel-inner">
+					<div class="carousel-item active">
+					  <img src="photos/profendorsed.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Responses Endorsed by Professor</h5>
+					  </div>
+					</div>
+					<div class="carousel-item">
+					  <img src="photos/answer-threads.jpg" class="d-block w-100" alt="...">
+					  <div class="carousel-caption d-none d-md-block">
+						<h5 style="background: white; padding: 3px; border: 2px solid black;">Responses moved to top based on number of likes</h5>
+					  </div>
+					</div>
+				  </div>
+				  <button class="carousel-control-prev" type="button" data-bs-target="#c8" data-bs-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Previous</span>
+				  </button>
+				  <button class="carousel-control-next" type="button" data-bs-target="#c8" data-bs-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="visually-hidden">Next</span>
+				  </button>
+				</div>
 
 ### __Detailed Design__
 > *High Fidelity Mockups*
