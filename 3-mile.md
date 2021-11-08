@@ -212,6 +212,8 @@ In this open setting, students and instructors all contribute to what is posted.
 
 #### **1. Group Work**
 
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=503%3A2862" target="_blank">Figma Link</a>
+
 Live text editor:
 
 Online rich text editor that allows users to collaborate in real-time and features a side chat bar for collaborators to communicate. The documents will be a rich text editor that supports code syntax, math symbols, and normal text.
@@ -241,6 +243,8 @@ Why is this the best design? / Why were design choices made?
 
 **2. Class Discussion**
 
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=503%3A3285" target="_blank">Figma Link</a>
+
 Threaded forum layout:
 
 A threadlike discussion board that allows students to make a post, and then other students can follow up on the discussion post by replying to the discussion thread. 
@@ -260,6 +264,8 @@ Why is this the best design / why design decisions were made?
 <img src="photos/dump.jpg">
 
 **3. Ask Questions**
+
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=503%3A3287" target="_blank">Figma Link</a>
 
 Live chat for questions:
 
@@ -281,6 +287,8 @@ Why is this the best design? / Why were design choices made?
 
 **4. View Previous Discussions**
 
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=489%3A1270" target="_blank">Figma Link</a>
+
 A discussion forum that allows students to view previous discussion posts. This allows the instructor to group discussion topics, and then students can reference the discussion post and responses later on. Students can access discussion posts using the sidebar, and important posts can be marked with a "pin." The pinned discussion posts will be moved to the pinned section so that students can reference information quickly in one location. (Insider..., 2021)
 
 This is the best design because then students' responses to the discussions are not lost. The discussion responses are saved so students can reference the discussions later to review the class material. This is an intuitive design, and it is similar to other discussion forums where there is a sidebar that houses past discussion questions. When the user clicks on a particular discussion question, the discussion post opens, and the user can view the original discussion post and the responses.   
@@ -293,7 +301,6 @@ Organize discussion board by topic:
 
 A discussion forum that allows users to easily filter posts by topic so that they can access the information they are looking for quickly 
 
-
 Why is this the best design? / Why were design choices made?
 <ul><li>Having a filter allows students to reduce the number of posts shown and focus on the post content that they need to look at. </li>
 	<li>Students can organize the posts from oldest to newest or newest to oldest to get the latest information at the top of their feed.</li>
@@ -303,6 +310,8 @@ Why is this the best design? / Why were design choices made?
 <img src="photos/ddm.jpg">
 
 **5. Pin Key Threads**
+
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=503%3A2597" target="_blank">Figma Link</a>
 
 Pins kept in place or moved to top:
 
@@ -337,6 +346,8 @@ Unpinned message (student view):
 
 **6. Facilitate Discussion**
 
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=904%3A5" target="_blank">Figma Link</a>
+
 Piazza Like Interface - Students / Groups can work to discuss among themselves and extend the discussion as a class once done. 
 
 Why is this the best design? / Why were design choices made?
@@ -359,6 +370,8 @@ Why is this the best design / why were design choices made?
 Overall goal of this user story is the same as user story 2. Refer to wireframes in section 2.
 
 **7. Answer Questions**
+
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=503%3A2604" target="_blank">Figma Link</a>
 
 Pinned Frequently Asked Questions (FAQ) Section:
 
@@ -383,6 +396,8 @@ Why is this the best design? / Why design decisions were made?
 <img src="photos/answer-threads.jpg">
 
 **8. Endorse Responses**
+
+<a href="https://www.figma.com/file/ZGIpqWWGOuxBtl7QvjhskM/HCI-Guys-Milestone-3?node-id=503%3A4287" target="_blank">Figma Link</a>
 
 Answers Endorsed by Professor:
 
@@ -561,9 +576,11 @@ General Design Justifications
 	<li>The end-goal with this approach is to approach the user stories with the key affordances and signifiers that would allow the user to utilize the capability of the system within the interface, without there being a need to second guess using the system and its numerous features. </li></ul>
 
 
-
 ### __Summary Video__
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyxuc7yaPvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://drive.google.com/file/d/1xu4GXYGPP2mmocK524Yyeh0uHCzF7GqO/view?usp=sharing" target="_blank">Download .fig Source File</a>
 
 ### __Sources__
 
