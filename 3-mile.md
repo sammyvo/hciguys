@@ -402,7 +402,7 @@ A liking system can be leveraged within the design to allow students to like res
 Why this is the best design / why design decisions were made?
 <ul><li>This can be akin to a system like social media where certain responses may be highly regarded by the community. </li>
 	<li>Inherently, these design choices would allow for more granular information to be presented to viewers of the system. </li>
-	<li>In general, instead of cluttering the system with responses like “I like this”, or “This is great”, which would provide for a cluttered feed, this method would allow for this same method of information to be relayed, without the feed being cluttered with the same responses again and again. This method would allow for the actual responses to be focused on that can curate further discussion, further understanding, and keep topics relevant and not go astray. (View of..., 2021)<.li></ul>
+	<li>In general, instead of cluttering the system with responses like “I like this”, or “This is great”, which would provide for a cluttered feed, this method would allow for this same method of information to be relayed, without the feed being cluttered with the same responses again and again. This method would allow for the actual responses to be focused on that can curate further discussion, further understanding, and keep topics relevant and not go astray. (View of..., 2021)</li></ul>
 
 <img src="photos/likes.jpg">
 
