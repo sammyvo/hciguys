@@ -569,33 +569,35 @@ General Design Justifications
 
 > *Low Fidelity Sources:*
 
-Attfield, B. (n.d.). Pros and cons of instant messaging in the Workplace. Jostle Blog. Retrieved November 7, 2021, from https://blog.jostle.me/blog/pros-cons-instant-messaging-workplace. 
+<ul>		
+<li>Attfield, B. (n.d.). Pros and cons of instant messaging in the Workplace. Jostle Blog. Retrieved November 7, 2021, from https://blog.jostle.me/blog/pros-cons-instant-messaging-workplace. </li>
 			
-Ferlazzo, L. (2021, March 5). Effective strategies for using online student-discussion boards (opinion). Education Week. Retrieved November 7, 2021, from https://www.edweek.org/teaching-learning/opinion-effective-strategies-for-using-online-student-discussion-boards/2020/10#:~:text=Even%20if%20you%20are%20in,use%20correct%20grammar%20and%20mechanics. 
+<li>Ferlazzo, L. (2021, March 5). Effective strategies for using online student-discussion boards (opinion). Education Week. Retrieved November 7, 2021, from https://www.edweek.org/teaching-learning/opinion-effective-strategies-for-using-online-student-discussion-boards/2020/10#:~:text=Even%20if%20you%20are%20in,use%20correct%20grammar%20and%20mechanics. </li>
 	
-Inside higher ed. New approaches to discussion boards aim for dynamic online learning experiences. (n.d.). Retrieved November 7, 2021, from https://www.insidehighered.com/digital-learning/article/2019/03/27/new-approaches-discussion-boards-aim-dynamic-online-learning. 
+<li>Inside higher ed. New approaches to discussion boards aim for dynamic online learning experiences. (n.d.). Retrieved November 7, 2021, from https://www.insidehighered.com/digital-learning/article/2019/03/27/new-approaches-discussion-boards-aim-dynamic-online-learning. </li>
 	
-Leah. “11 Unique Benefits of Live Chat in Education.” Userlike Live Chat, Userlike, 21 June 2019, https://www.userlike.com/en/blog/live-chat-education. 
+<li>Leah. “11 Unique Benefits of Live Chat in Education.” Userlike Live Chat, Userlike, 21 June 2019, https://www.userlike.com/en/blog/live-chat-education. </li>
 	
-Lorna CrowleyChief Marketing OfficerLorna Crowley is an experienced Chief Marketing Officer with a track record of delivering impressive results. Her passion for marketing can be traced back to her university days, Blake-Thomas, P. by: C., & Gleason, P. by: D. (2019, October 7). Simple web design: The science behind why uncluttered websites work: EyeQuant – Data Driven Design. EyeQuant. Retrieved November 7, 2021, from https://www.eyequant.com/resources/simple-web-design-the-science-behind-why-uncluttered-websites-work/. 
+<li>Lorna CrowleyChief Marketing OfficerLorna Crowley is an experienced Chief Marketing Officer with a track record of delivering impressive results. Her passion for marketing can be traced back to her university days, Blake-Thomas, P. by: C., & Gleason, P. by: D. (2019, October 7). Simple web design: The science behind why uncluttered websites work: EyeQuant – Data Driven Design. EyeQuant. Retrieved November 7, 2021, from https://www.eyequant.com/resources/simple-web-design-the-science-behind-why-uncluttered-websites-work/. </li>
 	
-Making good use of online discussion boards. The K. Patricia Cross Academy. (2020, June 25). Retrieved November 7, 2021, from https://kpcrossacademy.org/making-good-use-of-online-discussion-boards/. 
+<li>Making good use of online discussion boards. The K. Patricia Cross Academy. (2020, June 25). Retrieved November 7, 2021, from https://kpcrossacademy.org/making-good-use-of-online-discussion-boards/. </li>
 
-Online sticky notes for virtual collaboration: Miro. https://miro.com/. (n.d.). Retrieved November 7, 2021, from https://miro.com/online-sticky-notes/. 
-View of the social significance of the Facebook like button: First Monday. View of The social significance of the Facebook Like button | First Monday. (n.d.). Retrieved November 7, 2021, from https://firstmonday.org/ojs/index.php/fm/article/view/5505/4581. 
+<li>Online sticky notes for virtual collaboration: Miro. https://miro.com/. (n.d.). Retrieved November 7, 2021, from https://miro.com/online-sticky-notes/. 
+View of the social significance of the Facebook like button: First Monday. View of The social significance of the Facebook Like button | First Monday. (n.d.). Retrieved November 7, 2021, from https://firstmonday.org/ojs/index.php/fm/article/view/5505/4581. </li>
 
-Sticky-note brainstorming: Education world. Sticky-Note Brainstorming | Education World. (n.d.). Retrieved November 7, 2021, from https://www.educationworld.com/a_admin/meetingidea/meetingideas009.shtml. 
+<li>Sticky-note brainstorming: Education world. Sticky-Note Brainstorming | Education World. (n.d.). Retrieved November 7, 2021, from https://www.educationworld.com/a_admin/meetingidea/meetingideas009.shtml. </li>
 
-View of the social significance of the Facebook like button: First Monday. View of The social significance of the Facebook Like button | First Monday. (n.d.). Retrieved November 7, 2021, from https://firstmonday.org/ojs/index.php/fm/article/view/5505/4581. 
+<li>View of the social significance of the Facebook like button: First Monday. View of The social significance of the Facebook Like button | First Monday. (n.d.). Retrieved November 7, 2021, from https://firstmonday.org/ojs/index.php/fm/article/view/5505/4581. </li>
 		
-Why Modern Products Need Collaborative text editing. Blueprint - Blog by Tiny. (n.d.). Retrieved November 7, 2021, from https://www.tiny.cloud/blog/collaborative-text-editing/. 
+<li>Why Modern Products Need Collaborative text editing. Blueprint - Blog by Tiny. (n.d.). Retrieved November 7, 2021, from https://www.tiny.cloud/blog/collaborative-text-editing/. </li></ul>
 
 > *High Fidelity Sources:*
-	
-Ghaith, A. (2019, October 22). Less is more: Ui Design vs cognitive bandwidth. Medium. Retrieved November 7, 2021, from https://uxdesign.cc/less-is-more-ui-design-vs-cognitive-bandwidth-f368130d7a6e.
+		
+<ul>		
+<li>Ghaith, A. (2019, October 22). Less is more: Ui Design vs cognitive bandwidth. Medium. Retrieved November 7, 2021, from https://uxdesign.cc/less-is-more-ui-design-vs-cognitive-bandwidth-f368130d7a6e.</li>
 
-Payyanur, G. (2019, August 15). Using the power of familiarity in Design. Medium. Retrieved November 7, 2021, from https://uxdesign.cc/familiarity-in-design-70df1979f80. 
+<li>Payyanur, G. (2019, August 15). Using the power of familiarity in Design. Medium. Retrieved November 7, 2021, from https://uxdesign.cc/familiarity-in-design-70df1979f80. </li>
 	
-Riva, M. D. L. (2021, September 6). Why consistency is so incredibly important in Ui Design. CareerFoundry. Retrieved November 7, 2021, from https://careerfoundry.com/en/blog/ui-design/the-importance-of-consistency-in-ui-design/. 
+<li>Riva, M. D. L. (2021, September 6). Why consistency is so incredibly important in Ui Design. CareerFoundry. Retrieved November 7, 2021, from https://careerfoundry.com/en/blog/ui-design/the-importance-of-consistency-in-ui-design/. </li></ul>
 		
 [Return to Top](#directory)
